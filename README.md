@@ -1,4 +1,4 @@
-#Flutter SC Projesi
+## Flutter SC Projesi
 
 Bu proje, engelli bireyler, vasileri, aileleri ve gönüllü eğitmenleri bir araya getirmeyi amaçlayan bir Flutter projesidir. Projenin amacı, engelli bireylerin hayatlarını kolaylaştırmak ve desteklemek için bir platform sağlamaktır.
 
@@ -6,11 +6,11 @@ Bu proje, engelli bireyler, vasileri, aileleri ve gönüllü eğitmenleri bir ar
 
 Bu proje, Google Haritalar ve Flutter teknolojileri kullanılarak geliştirilmiştir. Proje, Firebase entegrasyonu ve Block mimarisine uygun bir yapı haline getirilecektir.
 
-#Mimarisi
+## Mimarisi
 
 Bu proje, Core ve Future olarak ayrılan bir yapıda oluşturulmuştur. Core kısmı, Widget, Common, Color gibi ana parçaları içerirken, Future kısmı, görünen ekranların kod kısmını içerir.
 
-#Kurulum
+## Kurulum
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
@@ -22,7 +22,7 @@ Katkıda Bulunma
 
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen GitHub reposunu ziyaret edin ve bir pull request oluşturun.
 
-#Lisans
+## Lisans
 
 Bu proje, MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için, LICENSE dosyasını inceleyebilirsiniz.
 
