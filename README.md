@@ -1,17 +1,28 @@
-# scproject
+#Flutter SC Projesi
 
-A new Flutter project.
+Bu proje, engelli bireyler, vasileri, aileleri ve gönüllü eğitmenleri bir araya getirmeyi amaçlayan bir Flutter projesidir. Projenin amacı, engelli bireylerin hayatlarını kolaylaştırmak ve desteklemek için bir platform sağlamaktır.
 
-## Getting Started
+#Kullanılan Teknolojiler
 
-This project is a starting point for a Flutter application.
+Bu proje, Google Haritalar ve Flutter teknolojileri kullanılarak geliştirilmiştir. Proje, Firebase entegrasyonu ve Block mimarisine uygun bir yapı haline getirilecektir.
 
-A few resources to get you started if this is your first Flutter project:
+#Mimarisi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Bu proje, Core ve Future olarak ayrılan bir yapıda oluşturulmuştur. Core kısmı, Widget, Common, Color gibi ana parçaları içerirken, Future kısmı, görünen ekranların kod kısmını içerir.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# scproject
+#Kurulum
+
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+
+Flutter kurulumunu tamamlayın.
+Bu repo'yu klonlayın veya indirin.
+Konsolu açın ve proje klasörüne gidin.
+flutter run komutunu kullanarak projeyi çalıştırın.
+Katkıda Bulunma
+
+Eğer bu projeye katkıda bulunmak isterseniz, lütfen GitHub reposunu ziyaret edin ve bir pull request oluşturun.
+
+#Lisans
+
+Bu proje, MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için, LICENSE dosyasını inceleyebilirsiniz.
+
